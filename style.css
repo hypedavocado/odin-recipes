@@ -6,7 +6,7 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
-h1, H3 {
+h1, h3 {
     background-color: darkred;
     color: white;
     list-style: none;
