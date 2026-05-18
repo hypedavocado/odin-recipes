@@ -1,6 +1,23 @@
 body {
     font-family: sans-serif;
     background-color: beige;
-    margin: 0 auto;
     text-align: center;
+    max-width: 800xp;
+    margin: 0 auto;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+ul a {
+    text-decoration: none;
+    color: #333;
+    font-size: 20px;
+}
+ul a:hover {
+    color: tomato;
+}
+ol {
+    text-align: left;
+    display: inline-block;
 }
