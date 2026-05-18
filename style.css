@@ -6,15 +6,11 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
-h1 {
+h1, H3 {
     background-color: darkred;
     color: white;
     list-style: none;
     padding: 10px;
-}
-h3 {
-    background-color: darkred;
-    color: white;
 }
 ul {
     list-style: none;
